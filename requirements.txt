@@ -1,0 +1,5 @@
+Pillow==11.1.0
+PyQt6==6.8.1
+PyQt6_sip==13.10.0
+ru_word2number==1.1
+sympy==1.13.3
